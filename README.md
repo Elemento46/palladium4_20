@@ -14,7 +14,6 @@
 - ✅ Comando `!game nome_do_jogo`
 - 🔎 Busca de AppID na Steam
 - 💸 Consulta de preço atual e link direto da loja
-- 🔐 Uso de `.env.enc` e `secret.key` para proteção de tokens
 - 🖱️ Executável `.exe` com instalador e atalho na área de trabalho
 
 ---
