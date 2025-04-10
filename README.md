@@ -1,6 +1,6 @@
-# 🎮 BotTwitch
+# 🎮 Palladium4_20
 
-**BotTwitch** é um bot de chat para Twitch desenvolvido em Python, capaz de buscar e exibir **nome, preço e link de jogos da Steam** diretamente no chat da live com o comando `!game`.
+**Palladium4_20** é um bot de chat para Twitch desenvolvido em Python, capaz de buscar e exibir **nome, preço e link de jogos da Steam** diretamente no chat da live com o comando `!game`.
 
 ![Badge Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Badge TwitchIO](https://img.shields.io/badge/TwitchIO-2.7-purple)
