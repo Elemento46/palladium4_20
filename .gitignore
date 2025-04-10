@@ -1,2 +1,2 @@
-# Ignorar a pasta build/backup e seu conteúdo
+# Ignorar a pasta backup dentro de build
 build/backup/
